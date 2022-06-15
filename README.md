@@ -28,3 +28,5 @@
 - [2,3,5,8,7,9,4,15,6] n-1
 - [2,3,4,8,7,9,5,15,6] n-2
 - [2,3,4,5,7,9,8,15,6] 1
+---
+[Patika - Teknoloji Kariyerine En Etkili Yol](https://app.patika.dev/ysny)
